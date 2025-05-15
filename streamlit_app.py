@@ -1,6 +1,10 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 halohalohalo")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "20-04-2021)."
 )
+st.image("IMG_5909.jpeg",width=150)
+st.write("\n")
+st.subheader("Ishfanna Dinara Najla")
+st.write("Mari Belajar Bersama Yesz!")
